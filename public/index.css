@@ -1,0 +1,22 @@
+body {
+  font: normal "Andale Mono", AndaleMono, monospace;
+  color: #fff;
+  padding: 50px;
+  width: 500px;
+  margin: 0 auto;
+  background-color: lightblue;
+  text-align: center;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+
+.time{
+  background: orange;
+  padding: 1rem;
+  width: 120%;
+  border-radius: 12px 100px/120px;
+  margin-top: 45%;
+}
